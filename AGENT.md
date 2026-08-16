@@ -1,6 +1,6 @@
 ﻿# MSolo overview
 MSolo is a MapleStory V83 private server. This repository is the server.
-Refer to `\docs` for context.
+Refer to `\docs\plan.md` for the project plan and context.
 
 ## Entrypoints and scripts
 - `\src\main\java\net\server\Server.java` - server start entrypoint via the `main` method.
